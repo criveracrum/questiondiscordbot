@@ -1,0 +1,15 @@
+{
+  "name": "questiondiscordbot",
+  "version": "1.0.0",
+  "description": "Question and Answer Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chad Rivera-Crum",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0"
+  }
+}
